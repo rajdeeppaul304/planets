@@ -253,10 +253,10 @@ function createPage(elementId, frameCount, fileprefix, start_top, end_top) {
   };
 }
 
-const page1 = createPage("can-1", 150, "./images/icyplanet-600/image_", 0, 300);
-const page2 = createPage("can-2", 150, "./images/icyplanet-600/image_",250, 600);
-const page3 = createPage("can-3", 150, "./images/icyplanet-600/image_",550, 900);
-const page4 = createPage("can-4", 150, "./images/icyplanet-600/image_",850, 1200);
+const page1 = createPage("can-1", 150, "./default/unscreen-", 0, 300);
+const page2 = createPage("can-2", 150, "./default/unscreen-",250, 600);
+const page3 = createPage("can-3", 150, "./default/unscreen-",550, 900);
+const page4 = createPage("can-4", 150, "./default/unscreen-",850, 1200);
 
 
 
